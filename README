@@ -1,0 +1,25 @@
+NAME:
+LUZHEN QIAN
+
+USC ID:
+2239838133
+
+HOW TO RUN THE PROGRAMME:
+
+1: In class ConnectDatabaseAndQuery, there is a construction method called connectToDatabase, the variable String user and password should be changed if running in other machine. eg: The user name now is SYSTEM, the password now is 2239838133. It shoule be changed if used in other machine.
+
+2: Sql statement maybe not work. If it doesn't work , the user should add the workshop name. eg:  The user name is SYSTEM, the password is 2239838133, and the workshop name is HW5. Then, the sql statement may like this: String sql = "select * from HW5.regions";
+
+
+File:
+
+
+ExtraCredit.java
+
+This file has many class, and the coresponding explainations have been included.
+
+1 file.
+
+
+
+
