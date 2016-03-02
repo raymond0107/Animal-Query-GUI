@@ -1,9 +1,3 @@
-NAME:
-LUZHEN QIAN
-
-USC ID:
-2239838133
-
 HOW TO RUN THE PROGRAMME:
 
 1: In class ConnectDatabaseAndQuery, there is a construction method called connectToDatabase, the variable String user and password should be changed if running in other machine. eg: The user name now is SYSTEM, the password now is 2239838133. It shoule be changed if used in other machine.
